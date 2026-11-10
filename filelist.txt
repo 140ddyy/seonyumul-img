@@ -77,6 +77,13 @@ eurine_normal.webp	file_00000000ce34823093fbb6c8079fb5ff.png
 eurine_smile.webp	20261109_230615.png
 eurine_smirk.webp	20261109_230513.png
 eurine_surprised.webp	20261109_230628.png
+felix_betray.webp	20261110_214107.png
+felix_exception.webp	file_000000001e088211a01518e0a2d0e01f.png
+felix_hollow.webp	20261110_214124.png
+felix_laugh.webp	file_0000000074f48209970e7b714ea5fc98.png
+felix_profile.webp	file_00000000ecc08209b721d59326a5b98d.png
+felix_serious.webp	20261110_213729.png
+felix_smile.webp	20261110_213524.png
 gregor_angry.webp	20261109_223757.png
 gregor_crazy.webp	20261109_223816.png
 gregor_normal.webp	1793757122958.png
@@ -405,6 +412,12 @@ vesper_angry.webp	20261109_232840.png
 vesper_betray.webp	20261109_232818.png
 vesper_normal.webp	file_000000009a488206bd59147c0828c086.png
 vesper_reveal.webp	file_000000001758820995edfc04e009b0e5.png
+whitemask_fade.webp	20261110_215248.png
+whitemask_normal.webp	file_00000000c5488209829a07305e94b20e.png
+whitemask_profile.webp	file_000000004aec8209aaa5ccff5c764b47.png
+whitemask_speak.webp	20261110_215916.png
+whitemask_unmask.webp	file_00000000fcdc8209a75e1fa6b00fa052.png
+whitemask_watch.webp	20261110_215927.png
 zara_angry.webp	20261109_205215.png
 zara_appraise.webp	20261109_205421.png
 zara_kiss.webp	20261109_205449.png
